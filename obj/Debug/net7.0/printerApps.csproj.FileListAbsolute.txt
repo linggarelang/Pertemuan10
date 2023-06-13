@@ -1,0 +1,15 @@
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\bin\Debug\net7.0\printerApps.exe
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\bin\Debug\net7.0\printerApps.deps.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\bin\Debug\net7.0\printerApps.runtimeconfig.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\bin\Debug\net7.0\printerApps.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\bin\Debug\net7.0\printerApps.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\printerApps.csproj.AssemblyReference.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\printerApps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\printerApps.AssemblyInfoInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\printerApps.AssemblyInfo.cs
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\printerApps.csproj.CoreCompileInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\printerApps.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\refint\printerApps.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\printerApps.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\printerApps.genruntimeconfig.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan10\printerApps\obj\Debug\net7.0\ref\printerApps.dll
